@@ -38,6 +38,7 @@ jobs:
 
       - run: npm ci
 
+      - run: npx prettier --write .
       - name: Check types and style
         run: npm run check
 
