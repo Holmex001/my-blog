@@ -1,5 +1,3 @@
-HELLO
-我是holmex
+# 这里是Holmex的blog
 
-我来试试
-...
+hello！我是来自电子科技大学的holmex。
